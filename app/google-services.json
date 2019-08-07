@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "846418837134",
+    "firebase_url": "https://travelmantics-23a08.firebaseio.com",
+    "project_id": "travelmantics-23a08",
+    "storage_bucket": "travelmantics-23a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846418837134:android:72103c81682668ec",
+        "android_client_info": {
+          "package_name": "com.kidus.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846418837134-2o04u5on6bj7jame2klr1af69sa07113.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kidus.travelmantics",
+            "certificate_hash": "41681e5cdaa2b592a0c7ec1fad053d7584b30b89"
+          }
+        },
+        {
+          "client_id": "846418837134-ls0n5lb357b4ndr9kv65idmueu1u5uc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kidus.travelmantics",
+            "certificate_hash": "e2a1104f89ce4272f605db22245af62b015b1e00"
+          }
+        },
+        {
+          "client_id": "846418837134-msl0k4qp07urpclsvc7uda39v00oihoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kidus.travelmantics",
+            "certificate_hash": "b74c716fd8de4edd1efde82c35aa67afe4cfd37a"
+          }
+        },
+        {
+          "client_id": "846418837134-m6v79vg3svc52gnqosp959g5id18i5db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kidus.travelmantics",
+            "certificate_hash": "8975fca82143be44719e42b7a29e3b1816e00082"
+          }
+        },
+        {
+          "client_id": "846418837134-uusk7b9irpo7d86i1pnp08te3vd6l48o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLvpoT3KqhUtRie189LqJ3rSenZ03s_do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846418837134-uusk7b9irpo7d86i1pnp08te3vd6l48o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
